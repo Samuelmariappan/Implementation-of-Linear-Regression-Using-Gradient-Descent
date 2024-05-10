@@ -1,4 +1,5 @@
-## ![Uploading RrahulRrahulSudhirGIF.gif…]()
+## EX-03
+## DATE:
 
 # Implementation-of-Linear-Regression-Using-Gradient-Descent
 
